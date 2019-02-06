@@ -1,2 +1,3 @@
 a = [ "a", "b", "c" ]
-a.push("d", "e", "f")
+letter = "d"
+a.push(letter)
